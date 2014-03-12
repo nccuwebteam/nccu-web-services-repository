@@ -1,3 +1,3 @@
-<cf_getSpreadsheetOutput
+<cf_get-spreadsheet-output
   table='CMS_Pages'
 >
