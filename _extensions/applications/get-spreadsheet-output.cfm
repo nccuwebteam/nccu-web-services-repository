@@ -1,6 +1,6 @@
 <cfparam name='attributes.table' default='Registrations'>
 <!---=====================================================
-Example: <cf_getSpreadsheetOutput table='Registrations'>
+Example: <cf_get-spreadsheet-output table='Registrations'>
 =====================================================--->
 <cfquery name='qrySelectRows'>
   SELECT
